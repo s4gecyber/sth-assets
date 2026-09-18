@@ -1,0 +1,10 @@
+# OS noise
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Working files that should not be published
+*.psd
+*.ai
+*.xcf
+_scratch/
