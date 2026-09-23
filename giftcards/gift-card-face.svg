@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="600" viewBox="0 0 1050 600"
+     role="img" aria-label="Sweet Trees Hawaii $200 gift card face">
+  <title>Sweet Trees Hawaii gift card face</title>
+  <desc>True 3.5 x 2 inch card face at 300 DPI. Brand tokens: forest-deep #142519,
+  papaya #D97706, sage #A4C29A, sage-pale #DCE7D3, cream #FAF7F0.
+  Fonts: Cormorant Garamond and DM Sans, both free from Google Fonts and built into Figma.
+  If the type substitutes, install those two families locally.</desc>
+
+  <defs>
+    <clipPath id="cardClip">
+      <rect x="0" y="0" width="1050" height="600" rx="36" ry="36"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#cardClip)">
+
+    <!-- card body -->
+    <rect x="0" y="0" width="1050" height="600" fill="#142519"/>
+
+    <!-- papaya edge stripe -->
+    <rect x="0" y="579" width="1050" height="21" fill="#D97706"/>
+
+    <!-- brand -->
+    <text x="66" y="108" font-family="Cormorant Garamond, Georgia, serif"
+          font-size="46" font-weight="600" fill="#FAF7F0" letter-spacing="0.4">Sweet Trees Hawai&#699;i</text>
+    <text x="66" y="150" font-family="Cormorant Garamond, Georgia, serif"
+          font-size="30" font-style="italic" font-weight="300" fill="#A4C29A">Grow Something Beautiful &amp; eat it!</text>
+
+    <!-- face value -->
+    <text x="66" y="356" font-family="Cormorant Garamond, Georgia, serif"
+          font-size="112" font-weight="600" fill="#FAF7F0">$200.00</text>
+
+    <!-- card number -->
+    <text x="66" y="410" font-family="DM Sans, Menlo, monospace"
+          font-size="34" font-weight="700" fill="#DCE7D3" letter-spacing="2.4">Card No. STH-XXXX-XXXX</text>
+
+    <!-- abbreviated terms. Required on the face: face value, card number,
+         issuance date, "does not expire", and the core restrictions. -->
+    <text x="66" y="486" font-family="DM Sans, Helvetica, sans-serif"
+          font-size="21" font-weight="500" fill="#A4C29A">Toward tree care service. Does not expire. No fees.</text>
+    <text x="66" y="518" font-family="DM Sans, Helvetica, sans-serif"
+          font-size="21" font-weight="500" fill="#A4C29A">Issued 00/00/0000. One gift card per household.</text>
+    <text x="66" y="550" font-family="DM Sans, Helvetica, sans-serif"
+          font-size="21" font-weight="500" fill="#A4C29A">Terms at deals.sweettreeshawaii.com</text>
+
+    <!-- QR plate. Replace the inner placeholder with the real per-card QR. -->
+    <rect x="768" y="318" width="216" height="216" rx="12" ry="12" fill="#FFFFFF"/>
+    <g fill="#142519" opacity="0.18">
+      <rect x="792" y="342" width="48" height="48"/>
+      <rect x="912" y="342" width="48" height="48"/>
+      <rect x="792" y="462" width="48" height="48"/>
+      <rect x="864" y="414" width="24" height="24"/>
+      <rect x="912" y="462" width="24" height="24"/>
+      <rect x="936" y="486" width="24" height="24"/>
+    </g>
+    <text x="876" y="566" font-family="DM Sans, Helvetica, sans-serif" font-size="16"
+          font-weight="600" fill="#5E8C61" text-anchor="middle">SCAN TO CHECK BALANCE</text>
+
+  </g>
+</svg>
