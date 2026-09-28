@@ -1,7 +1,7 @@
 {
   "base_url": "https://s4gecyber.github.io/sth-assets",
   "generated": "2026-09-27",
-  "count": 4,
+  "count": 5,
   "images": [
     {
       "path": "brand/sth-logo.png",
@@ -11,6 +11,15 @@
       "size": "195 KB",
       "width": 480,
       "height": 480
+    },
+    {
+      "path": "work/before-after/kailua-before-after.jpg",
+      "url": "https://s4gecyber.github.io/sth-assets/work/before-after/kailua-before-after.jpg",
+      "folder": "work/before-after",
+      "bytes": 209336,
+      "size": "204 KB",
+      "width": 1400,
+      "height": 514
     },
     {
       "path": "giftcards/gift-card-face.svg",
