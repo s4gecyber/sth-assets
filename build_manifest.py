@@ -21,7 +21,20 @@ from datetime import date
 ROOT = os.path.dirname(os.path.abspath(__file__))
 BASE_URL = "https://s4gecyber.github.io/sth-assets"
 
-FOLDERS = ["brand", "og", "work", "work/before-after", "species", "giftcards"]
+# Discovered, not hardcoded. A hardcoded list silently drops any folder added
+# later, which is how team/ and work/mango-thinning/ went missing from the
+# manifest after they were populated.
+def _discover():
+    seen = []
+    for dirpath, dirnames, _ in os.walk(ROOT):
+        dirnames[:] = [d for d in dirnames if not d.startswith((".", "_"))]
+        rel = os.path.relpath(dirpath, ROOT).replace(os.sep, "/")
+        if rel != ".":
+            seen.append(rel)
+    return sorted(seen)
+
+
+FOLDERS = _discover()
 WEB_OK = {".jpg", ".jpeg", ".png", ".webp", ".svg", ".gif", ".avif"}
 SIZE_WARN = 500 * 1024          # 500 KB
 SIZE_HARD = 2 * 1024 * 1024     # 2 MB

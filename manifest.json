@@ -1,7 +1,7 @@
 {
   "base_url": "https://s4gecyber.github.io/sth-assets",
-  "generated": "2026-09-27",
-  "count": 5,
+  "generated": "2026-09-29",
+  "count": 16,
   "images": [
     {
       "path": "brand/sth-logo.png",
@@ -11,15 +11,6 @@
       "size": "195 KB",
       "width": 480,
       "height": 480
-    },
-    {
-      "path": "work/before-after/kailua-before-after.jpg",
-      "url": "https://s4gecyber.github.io/sth-assets/work/before-after/kailua-before-after.jpg",
-      "folder": "work/before-after",
-      "bytes": 209336,
-      "size": "204 KB",
-      "width": 1400,
-      "height": 514
     },
     {
       "path": "giftcards/gift-card-face.svg",
@@ -47,6 +38,114 @@
       "size": "191 KB",
       "width": 1400,
       "height": 939
+    },
+    {
+      "path": "team/sage-at-work.jpg",
+      "url": "https://s4gecyber.github.io/sth-assets/team/sage-at-work.jpg",
+      "folder": "team",
+      "bytes": 243741,
+      "size": "238 KB",
+      "width": 900,
+      "height": 1125
+    },
+    {
+      "path": "work/leaf-inspection.jpg",
+      "url": "https://s4gecyber.github.io/sth-assets/work/leaf-inspection.jpg",
+      "folder": "work",
+      "bytes": 123313,
+      "size": "120 KB",
+      "width": 900,
+      "height": 900
+    },
+    {
+      "path": "work/before-after/kailua-before-after.jpg",
+      "url": "https://s4gecyber.github.io/sth-assets/work/before-after/kailua-before-after.jpg",
+      "folder": "work/before-after",
+      "bytes": 209336,
+      "size": "204 KB",
+      "width": 1400,
+      "height": 514
+    },
+    {
+      "path": "work/mango-thinning/brush-cleared.jpg",
+      "url": "https://s4gecyber.github.io/sth-assets/work/mango-thinning/brush-cleared.jpg",
+      "folder": "work/mango-thinning",
+      "bytes": 280567,
+      "size": "274 KB",
+      "width": 900,
+      "height": 1200
+    },
+    {
+      "path": "work/mango-thinning/canopy-after.jpg",
+      "url": "https://s4gecyber.github.io/sth-assets/work/mango-thinning/canopy-after.jpg",
+      "folder": "work/mango-thinning",
+      "bytes": 287272,
+      "size": "281 KB",
+      "width": 1000,
+      "height": 1333
+    },
+    {
+      "path": "work/mango-thinning/canopy-before.jpg",
+      "url": "https://s4gecyber.github.io/sth-assets/work/mango-thinning/canopy-before.jpg",
+      "folder": "work/mango-thinning",
+      "bytes": 283772,
+      "size": "277 KB",
+      "width": 1000,
+      "height": 1333
+    },
+    {
+      "path": "work/mango-thinning/chainsaw-cut.jpg",
+      "url": "https://s4gecyber.github.io/sth-assets/work/mango-thinning/chainsaw-cut.jpg",
+      "folder": "work/mango-thinning",
+      "bytes": 272047,
+      "size": "266 KB",
+      "width": 900,
+      "height": 1200
+    },
+    {
+      "path": "work/mango-thinning/in-tree-pruning.jpg",
+      "url": "https://s4gecyber.github.io/sth-assets/work/mango-thinning/in-tree-pruning.jpg",
+      "folder": "work/mango-thinning",
+      "bytes": 280647,
+      "size": "274 KB",
+      "width": 900,
+      "height": 900
+    },
+    {
+      "path": "work/mango-thinning/interior-before.jpg",
+      "url": "https://s4gecyber.github.io/sth-assets/work/mango-thinning/interior-before.jpg",
+      "folder": "work/mango-thinning",
+      "bytes": 303922,
+      "size": "297 KB",
+      "width": 900,
+      "height": 1200
+    },
+    {
+      "path": "work/mango-thinning/light-through-sq.jpg",
+      "url": "https://s4gecyber.github.io/sth-assets/work/mango-thinning/light-through-sq.jpg",
+      "folder": "work/mango-thinning",
+      "bytes": 235981,
+      "size": "230 KB",
+      "width": 900,
+      "height": 900
+    },
+    {
+      "path": "work/mango-thinning/light-through.jpg",
+      "url": "https://s4gecyber.github.io/sth-assets/work/mango-thinning/light-through.jpg",
+      "folder": "work/mango-thinning",
+      "bytes": 305605,
+      "size": "298 KB",
+      "width": 900,
+      "height": 1200
+    },
+    {
+      "path": "work/mango-thinning/thinning-cut.jpg",
+      "url": "https://s4gecyber.github.io/sth-assets/work/mango-thinning/thinning-cut.jpg",
+      "folder": "work/mango-thinning",
+      "bytes": 260565,
+      "size": "254 KB",
+      "width": 900,
+      "height": 900
     }
   ]
 }
