@@ -1,7 +1,7 @@
 {
   "base_url": "https://s4gecyber.github.io/sth-assets",
   "generated": "2026-09-29",
-  "count": 16,
+  "count": 23,
   "images": [
     {
       "path": "brand/sth-logo.png",
@@ -40,6 +40,15 @@
       "height": 939
     },
     {
+      "path": "giftcards/gift-card-hero.webp",
+      "url": "https://s4gecyber.github.io/sth-assets/giftcards/gift-card-hero.webp",
+      "folder": "giftcards",
+      "bytes": 74450,
+      "size": "73 KB",
+      "width": 1000,
+      "height": 671
+    },
+    {
       "path": "team/sage-at-work.jpg",
       "url": "https://s4gecyber.github.io/sth-assets/team/sage-at-work.jpg",
       "folder": "team",
@@ -49,6 +58,15 @@
       "height": 1125
     },
     {
+      "path": "team/sage-at-work.webp",
+      "url": "https://s4gecyber.github.io/sth-assets/team/sage-at-work.webp",
+      "folder": "team",
+      "bytes": 85654,
+      "size": "84 KB",
+      "width": 700,
+      "height": 875
+    },
+    {
       "path": "work/leaf-inspection.jpg",
       "url": "https://s4gecyber.github.io/sth-assets/work/leaf-inspection.jpg",
       "folder": "work",
@@ -56,6 +74,15 @@
       "size": "120 KB",
       "width": 900,
       "height": 900
+    },
+    {
+      "path": "work/leaf-inspection.webp",
+      "url": "https://s4gecyber.github.io/sth-assets/work/leaf-inspection.webp",
+      "folder": "work",
+      "bytes": 34792,
+      "size": "34 KB",
+      "width": 700,
+      "height": 700
     },
     {
       "path": "work/before-after/kailua-before-after.jpg",
@@ -85,6 +112,15 @@
       "height": 1333
     },
     {
+      "path": "work/mango-thinning/canopy-after.webp",
+      "url": "https://s4gecyber.github.io/sth-assets/work/mango-thinning/canopy-after.webp",
+      "folder": "work/mango-thinning",
+      "bytes": 124828,
+      "size": "122 KB",
+      "width": 700,
+      "height": 933
+    },
+    {
       "path": "work/mango-thinning/canopy-before.jpg",
       "url": "https://s4gecyber.github.io/sth-assets/work/mango-thinning/canopy-before.jpg",
       "folder": "work/mango-thinning",
@@ -92,6 +128,15 @@
       "size": "277 KB",
       "width": 1000,
       "height": 1333
+    },
+    {
+      "path": "work/mango-thinning/canopy-before.webp",
+      "url": "https://s4gecyber.github.io/sth-assets/work/mango-thinning/canopy-before.webp",
+      "folder": "work/mango-thinning",
+      "bytes": 141708,
+      "size": "138 KB",
+      "width": 700,
+      "height": 933
     },
     {
       "path": "work/mango-thinning/chainsaw-cut.jpg",
@@ -130,6 +175,15 @@
       "height": 900
     },
     {
+      "path": "work/mango-thinning/light-through-sq.webp",
+      "url": "https://s4gecyber.github.io/sth-assets/work/mango-thinning/light-through-sq.webp",
+      "folder": "work/mango-thinning",
+      "bytes": 95022,
+      "size": "93 KB",
+      "width": 700,
+      "height": 700
+    },
+    {
       "path": "work/mango-thinning/light-through.jpg",
       "url": "https://s4gecyber.github.io/sth-assets/work/mango-thinning/light-through.jpg",
       "folder": "work/mango-thinning",
@@ -146,6 +200,15 @@
       "size": "254 KB",
       "width": 900,
       "height": 900
+    },
+    {
+      "path": "work/mango-thinning/thinning-cut.webp",
+      "url": "https://s4gecyber.github.io/sth-assets/work/mango-thinning/thinning-cut.webp",
+      "folder": "work/mango-thinning",
+      "bytes": 112186,
+      "size": "110 KB",
+      "width": 700,
+      "height": 700
     }
   ]
 }
